@@ -11,7 +11,7 @@ calculate image color diversity by fractal dimension using box-counting method
 # How to use
 You can use module like this
 
-- image_diversity(image_path, fractal_dimension(default = 5 ==> 2^5), e_ne_graph(default = false), fractal_graph(default = false))
+- image_diversity(image_path, fractal_dimension(default = 5 => 2^5), e_ne_graph(default = false), fractal_graph(default = false))
 - ex)  image_diversity('./Lenna.png', 5, e_ne_graph=True, fractal_graph=True)
 
 # Result
