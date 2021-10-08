@@ -25,5 +25,5 @@ This function will return **(Image_diversity, Number of Boxes, Completion_time)*
 2. fractal_graph   
 
 <img src="https://user-images.githubusercontent.com/80665546/136632309-fdf16bd4-a6a9-4222-9e94-598b1c3c923e.jpg" width="250" height="250"/><img src="https://user-images.githubusercontent.com/80665546/136632354-dbf142c1-eb04-48da-b130-66148058238c.jpg" width="250" height="250"/><img src="https://user-images.githubusercontent.com/80665546/136632372-4e7709ab-837f-4ec3-8e9b-8ce27a5065cf.jpg" width="250" height="250"/>   
-<img src="https://user-images.githubusercontent.com/80665546/136632449-97e9cd11-2b4d-4643-bc3f-543af24d13e9.jpg" width="300" height="300"/><img src="https://user-images.githubusercontent.com/80665546/136632453-c70c16e9-9c4a-4fe8-8f61-c7608150a1b9.jpg" width="300" height="300"/><img src="https://user-images.githubusercontent.com/80665546/136632454-490f6916-0d9f-48bf-a2d2-0be0fe517c77.jpg" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/80665546/136632449-97e9cd11-2b4d-4643-bc3f-543af24d13e9.jpg" width="250" height="250"/><img src="https://user-images.githubusercontent.com/80665546/136632453-c70c16e9-9c4a-4fe8-8f61-c7608150a1b9.jpg" width="250" height="250"/><img src="https://user-images.githubusercontent.com/80665546/136632454-490f6916-0d9f-48bf-a2d2-0be0fe517c77.jpg" width="250" height="250"/>
 
