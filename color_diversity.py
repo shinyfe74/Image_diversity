@@ -69,7 +69,6 @@ def image_diversity(image_path, fractal_dimension = 5, e_ne_graph=False, fractal
     #draw & save e, Ne graph
     if e_ne_graph:
         newX = np.logspace(0, 2, base=10)
-        # fractacl, N_e로 그래프 그리기
         fig = plt.figure()
         ax = plt.gca()
         ax.scatter(fractal, N_e, c='blue', alpha=0.95, label = 'data')
@@ -84,9 +83,9 @@ def image_diversity(image_path, fractal_dimension = 5, e_ne_graph=False, fractal
         ax.legend(loc='upper right')
         fig.savefig('./diversity.jpg', dpi=400)
 
-    end_time = time.time() - start_time
+    completion_time = time.time() - start_time
 
-    return diversity, N_e, end_time
+    return diversity, N_e, completion_time
 
 
 
