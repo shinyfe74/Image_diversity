@@ -16,6 +16,7 @@ You can use module like this
 
 # Result
 This function will return **(Image_diversity, Number of Boxes, Completion_time)**
+ - Image_diversity : The higher value means more diverse image
 - ex)  image_diversity('./Lenna.png', 5, e_ne_graph=True, fractal_graph=True) - > (1.8258348160993132, [37270, 19535, 6572, 1557, 335, 81], 3.2434229850769043)
 
 **return graphs**   
